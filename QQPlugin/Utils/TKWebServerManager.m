@@ -303,7 +303,7 @@ static int port=52777;
         } 
     }
    
-    return @{@"title": title,
+    return @{@"title": title?title:@"[非正常消息]",
              @"subTitle": subTitle,
              @"icon": [self avatarPathWithUIN:msgModel.senderUin isUser:YES],
              @"userId": msgModel.uin,
