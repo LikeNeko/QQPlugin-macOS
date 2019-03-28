@@ -61,6 +61,10 @@ QQ 小助手
 
 * Alfred 使用：跟 微信`Alfred`类似，关键字为`q`. 
 
+* 对外的接口:目前只支持本地`http://127.0.0.1/` or `http://localhost/`调用：**并且需要安装插件**
+
+* [点击跳转接口文档](https://apizza.net/pro/#/project/b4f5f873c8adf73428c127ba8fb6a2e7/browse) 密码：neko
+
 ---
 
 ### 卸载
